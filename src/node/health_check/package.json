@@ -5,9 +5,9 @@
   "description": "Health check service for use with gRPC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/grpc/grpc.git"
+    "url": "https://github.com/szzfstgit/grpc-1.git"
   },
-  "bugs": "https://github.com/grpc/grpc/issues",
+  "bugs": "https://github.com/szzfstgit/grpc/issues",
   "contributors": [
     {
       "name": "Michael Lumish",
